@@ -1,0 +1,73 @@
+sample-id	well	adapter-name 	i5-index-name	i5-index-forward-strand	i5-index-reverse-complement	i7-index-name	i7-index	date-collected	sex	genus	collection_source	status	otusofnote
+AA	A01	IDT8_i5_1/IDT8_i7_1	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_1	CTGATCGT	14-Dec-21	Female	Ixodes	Dragged	not engorged	none
+AB	C03	IDT8_i5_3/IDT8_i7_3	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_3	TGAGCTAG	14-Dec-21	Male	Ixodes	Dragged	not engorged	Borrelia
+AC	C04	IDT8_i5_3/IDT8_i7_4	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_4	GAGACGAT	14-Dec-21	Male	Ixodes	Dragged	not engorged	none
+AD	C02	IDT8_i5_3/IDT8_i7_2	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_2	ACTCTCGA	14-Dec-21	Female	Ixodes	Dragged	not engorged	none
+AE	C07	IDT8_i5_3/IDT8_i7_7	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_7	CGCATGAT	14-Dec-21	Female	Ixodes	Dragged	not engorged	none
+AF	F10	IDT8_i5_6/IDT8_i7_10	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_10	ATCGATCG	14-Dec-21	Male	Ixodes	Dragged	not engorged	none
+AG	C10	IDT8_i5_3/IDT8_i7_10	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_10	ATCGATCG	14-Dec-21	Female	Ixodes	Dragged	not engorged	none
+AH	C11	IDT8_i5_3/IDT8_i7_11	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_11	GCAAGATC	14-Dec-21	Female	Ixodes	Dragged	not engorged	Borrelia
+AI	D03	IDT8_i5_4/IDT8_i7_3	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_3	TGAGCTAG	14-Dec-21	Female	Ixodes	Dragged	not engorged	none
+BA	F01	IDT8_i5_6/IDT8_i7_1	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_1	CTGATCGT	27-Nov-19	Female	Ixodes	Dragged	not engorged	Borreliaales
+BB	E12	IDT8_i5_5/IDT8_i7_12	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_12	GCTATCCT	27-Nov-19	Female	Ixodes 	Dragged	not engorged	none
+BC	A02	IDT8_i5_1/IDT8_i7_2	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_2	ACTCTCGA	27-Nov-19	Female	Ixodes 	Dragged	not engorged	none
+BD	E05	IDT8_i5_5/IDT8_i7_5	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_5	CTTGTCGA	27-Nov-19	Female	Ixodes 	Dragged	not engorged	none
+BE	A11	IDT8_i5_1/IDT8_i7_11	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_11	GCAAGATC	27-Nov-19	Female	Ixodes 	Dragged	not engorged	none
+BF	B08	IDT8_i5_2/IDT8_i7_8	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_8	ACGGAACA	30-Nov-19	Female	Ixodes 	Dragged	not engorged	Borrelia
+BG	C01	IDT8_i5_3/IDT8_i7_1	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_1	CTGATCGT	30-Nov-19	Female	Ixodes	Dragged	not engorged	Anaplasma
+BH	D08	IDT8_i5_4/IDT8_i7_8	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_8	ACGGAACA	30-Nov-19	Female	Ixodes	Dragged	not engorged	Borrelia
+BI	D01	IDT8_i5_4/IDT8_i7_1	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_1	CTGATCGT	30-Nov-19	Female	Ixodes	Dragged	not engorged	none
+CA	G09	IDT8_i5_7/IDT8_i7_9	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_9	CGGCTAAT	28-Nov-19	Female	Ixodes	Deer	engorged	none
+CB	B12	IDT8_i5_2/IDT8_i7_12	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_12	GCTATCCT	28-Nov-19	Female	Ixodes	Deer	engorged	none
+CC	G11	IDT8_i5_7/IDT8_i7_11	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_11	GCAAGATC	28-Nov-19	Female	Ixodes	Deer	engorged	none
+CD	B04	IDT8_i5_2/IDT8_i7_4	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_4	GAGACGAT	28-Nov-19	Female	Ixodes	Deer	engorged	none
+CE	C08	IDT8_i5_3/IDT8_i7_8	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_8	ACGGAACA	28-Nov-19	Female	Ixodes	Deer	engorged	none
+CF	E06	IDT8_i5_5/IDT8_i7_6	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_6	TTCCAAGG	28-Nov-19	Female	Ixodes	Deer	engorged	none
+CG	A03	IDT8_i5_1/IDT8_i7_3	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_3	TGAGCTAG	28-Nov-19	Female	Ixodes	Deer	engorged	none
+CH	C06	IDT8_i5_3/IDT8_i7_6	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_6	TTCCAAGG	28-Nov-19	Female	Ixodes	Deer	engorged	none
+CI	D06	IDT8_i5_4/IDT8_i7_6	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_6	TTCCAAGG	28-Nov-19	Female	Ixodes	Deer	engorged	none
+DA	F06	IDT8_i5_6/IDT8_i7_6	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_6	TTCCAAGG	2018	Female	Ixodes	Deer	not engorged	none
+DB	D07	IDT8_i5_4/IDT8_i7_7	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_7	CGCATGAT	2018	Female	Ixodes	Deer	not engorged	none
+DC	D05	IDT8_i5_4/IDT8_i7_5	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_5	CTTGTCGA	2018	Female	Ixodes	Deer	not engorged	none
+DD	D09	IDT8_i5_4/IDT8_i7_9	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_9	CGGCTAAT	2018	Female	Ixodes	Deer	engorged	none
+DE	E03	IDT8_i5_5/IDT8_i7_3	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_3	TGAGCTAG	2018	Female	Ixodes	Deer	engorged	none
+DF	A07	IDT8_i5_1/IDT8_i7_7	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_7	CGCATGAT	2018	Female	Ixodes	Deer	engorged	none
+DG	A04	IDT8_i5_1/IDT8_i7_4	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_4	GAGACGAT	2018	Female	Ixodes	Deer	engorged	none
+DH	E01	IDT8_i5_5/IDT8_i7_1	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_1	CTGATCGT	2018	Female	Ixodes	Deer	engorged	none
+DI	D12	IDT8_i5_4/IDT8_i7_12	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_12	GCTATCCT	2018	Male	Ixodes	Deer	not engorged	Borrelia
+EA	D10	IDT8_i5_4/IDT8_i7_10	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_10	ATCGATCG	2019	Female	Ixodes	Deer	engorged	Anaplasma
+EB	G07	IDT8_i5_7/IDT8_i7_7	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_7	CGCATGAT	2019	Female	Ixodes	Deer	engorged	none
+EC	A06	IDT8_i5_1/IDT8_i7_6	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_6	TTCCAAGG	2019	Female	Ixodes	Deer	not engorged	none
+ED	A05	IDT8_i5_1/IDT8_i7_5	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_5	CTTGTCGA	2019	Female	Ixodes	Deer	not engorged	none
+EE	A08	IDT8_i5_1/IDT8_i7_8	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_8	ACGGAACA	2019	Female	Ixodes	Deer	not engorged	none
+EF	B05	IDT8_i5_2/IDT8_i7_5	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_5	CTTGTCGA	2019	Female	Ixodes	Deer	not engorged	Borrelia
+EG	B06	IDT8_i5_2/IDT8_i7_6	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_6	TTCCAAGG	2019	Female	Ixodes	Deer	not engorged	Borrelia
+EH	D11	IDT8_i5_4/IDT8_i7_11	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_11	GCAAGATC	2019	Female	Ixodes	Deer	not engorged	none
+EI	E02	IDT8_i5_5/IDT8_i7_2	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_2	ACTCTCGA	2019	Female	Ixodes	Deer	not engorged	none
+FA	G05	IDT8_i5_7/IDT8_i7_5	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_5	CTTGTCGA	2020	Female	Ixodes	Deer	engorged	none
+FB	A10	IDT8_i5_1/IDT8_i7_10	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_10	ATCGATCG	2020	Female	Ixodes	Deer	engorged	none
+FC	D02	IDT8_i5_4/IDT8_i7_2	IDT8_i5_4	TAACCGGT	ACCGGTTA	IDT8_i7_2	ACTCTCGA	2020	Female	Ixodes	Deer	engorged	none
+FD	B07	IDT8_i5_2/IDT8_i7_7	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_7	CGCATGAT	2020	Female	Ixodes	Deer	engorged	none
+FE	A12	IDT8_i5_1/IDT8_i7_12	IDT8_i5_1	ATATGCGC	GCGCATAT	IDT8_i7_12	GCTATCCT	2020	Female	Ixodes	Deer	engorged	none
+FF	B01	IDT8_i5_2/IDT8_i7_1	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_1	CTGATCGT	2020	Female	Ixodes	Deer	engorged	Borrelia
+FG	C12	IDT8_i5_3/IDT8_i7_12	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_12	GCTATCCT	2020	Female	Ixodes	Deer	engorged	none
+FH	F04	IDT8_i5_6/IDT8_i7_4	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_4	GAGACGAT	2020	Female	Ixodes	Deer	engorged	Anaplasma
+FI	G02	IDT8_i5_7/IDT8_i7_2	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_2	ACTCTCGA	2020	Female	Ixodes	Deer	engorged	none
+GA	E08	IDT8_i5_5/IDT8_i7_8	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_8	ACGGAACA	2020	Female	Ixodes	Dragged	not engorged	none
+GB	E10	IDT8_i5_5/IDT8_i7_10	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_10	ATCGATCG	2020	Female	Ixodes	Dragged	not engorged	none
+GC	F02	IDT8_i5_6/IDT8_i7_2	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_2	ACTCTCGA	2020	Female	Ixodes	Dragged	not engorged	none
+GD	F03	IDT8_i5_6/IDT8_i7_3	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_3	TGAGCTAG	2020	Female	Ixodes	Dragged	not engorged	none
+GE	B02	IDT8_i5_2/IDT8_i7_2	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_2	ACTCTCGA	2020	Female	Ixodes	Dragged	not engorged	none
+GF	B10	IDT8_i5_2/IDT8_i7_10	IDT8_i5_2	TGGTACAG	CTGTACCA	IDT8_i7_10	ATCGATCG	2020	Female	Ixodes	Dragged	not engorged	none
+GG	G03	IDT8_i5_7/IDT8_i7_3	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_3	TGAGCTAG	2020	Female	Ixodes	Dragged	not engorged	none
+GH	F05	IDT8_i5_6/IDT8_i7_5	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_5	CTTGTCGA	2020	Female	Ixodes	Dragged	not engorged	Anaplasma
+GI	F11	IDT8_i5_6/IDT8_i7_11	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_11	GCAAGATC	2020	Female	Ixodes	Dragged	not engorged	none
+HA	E04	IDT8_i5_5/IDT8_i7_4	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_4	GAGACGAT	2018	Female	Ixodes	Deer	engorged	Anaplasma
+HB	E09	IDT8_i5_5/IDT8_i7_9	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_9	CGGCTAAT	2018	Female	Ixodes	Dragged	not engorged	none
+HC	G01	IDT8_i5_7/IDT8_i7_1	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_1	CTGATCGT	2018	Female	Ixodes	Dragged	not engorged	none
+HD	G10	IDT8_i5_7/IDT8_i7_10	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_10	ATCGATCG	2018	Female	Ixodes	Dragged	not engorged	none
+HE	E07	IDT8_i5_5/IDT8_i7_7	IDT8_i5_5	GAACATCG	CGATGTTC	IDT8_i7_7	CGCATGAT	2018	Female	Ixodes	Dragged	not engorged	none
+HF	F07	IDT8_i5_6/IDT8_i7_7	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_7	CGCATGAT	2018	Female	Ixodes	Dragged	not engorged	none
+HG	C09	IDT8_i5_3/IDT8_i7_9	IDT8_i5_3	AACCGTTC	GAACGGTT	IDT8_i7_9	CGGCTAAT	2018	Female	Ixodes	Dragged	not engorged	none
+HH	G06	IDT8_i5_7/IDT8_i7_6	IDT8_i5_7	TCAGGCTT	AAGCCTGA	IDT8_i7_6	TTCCAAGG	2018	Female	Ixodes	Dragged	not engorged	none
+HI	F12	IDT8_i5_6/IDT8_i7_12	IDT8_i5_6	CCTTGTAG	CTACAAGG	IDT8_i7_12	GCTATCCT	2018	Female	Ixodes	Dragged	not engorged	Francisellaceae
